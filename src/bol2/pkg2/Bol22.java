@@ -19,7 +19,7 @@ public class Bol22 {
         System.out.println("area =" +lado*lado);
         
         
-        
+        // permisos
     }
     
 }
